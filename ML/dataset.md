@@ -7,5 +7,5 @@ The current dataset is constructed by the following open source Paddy Leaf Disea
 
 ## Steps to generate the dataset
 1. Download the datasets listed above
-2. Use [Splitting%20Dataset.ipynb](Splitting%20Dataset.ipynb) to split train/validation dataset on rice-leaf-diseases and rice-diseases-image-dataset/LabelledRice before handling.
-3. Use [Data Preprocessing.ipynb](Data Preprocessing.ipynb) to to combine the three datasets for multi class classification.
+2. Use [Splitting Dataset.ipynb](Splitting%20Dataset.ipynb) to split train/validation dataset on rice-leaf-diseases and rice-diseases-image-dataset/LabelledRice before handling.
+3. Use [Data Preprocessing.ipynb](Data%20Preprocessing.ipynb) to to combine the three datasets for multi class classification.
