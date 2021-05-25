@@ -1,4 +1,4 @@
-# Paddy-Leaf-Disease-Detection
+# Paddy Leaf Disease Detection
 Bangkit's Capstone Project : Paddy Leaf Disease Detection
 ## Quick Links
 1. Rice Leafs Dataset : https://www.kaggle.com/shayanriyaz/riceleafs
