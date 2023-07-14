@@ -1,7 +1,0 @@
-numpy
-tensorflow==2.9.1
-tensorflow_hub==0.12.0
-pillow
-keras==2.9.0
-scipy
-matplotlib
